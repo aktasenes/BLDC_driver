@@ -1,0 +1,6 @@
+../Core/Src/main.c:76:6:uart_gonder	1
+../Core/Src/main.c:81:6:basla	1
+../Core/Src/main.c:130:6:HAL_GPIO_EXTI_Callback	14
+../Core/Src/main.c:462:6:SystemClock_Config	4
+../Core/Src/main.c:220:5:main	22
+../Core/Src/main.c:836:6:Error_Handler	1

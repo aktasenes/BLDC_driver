@@ -1,0 +1,12 @@
+../Core/Src/main.c:80:6:uart_gonder	1
+../Core/Src/main.c:85:6:basla	1
+../Core/Src/main.c:125:6:HAL_GPIO_EXTI_Callback	46
+../Core/Src/main.c:243:5:main	17
+../Core/Src/main.c:495:6:SystemClock_Config	4
+../Core/Src/main.c:542:13:MX_ADC1_Init	3
+../Core/Src/main.c:589:13:MX_ADC2_Init	3
+../Core/Src/main.c:636:13:MX_TIM1_Init	7
+../Core/Src/main.c:711:13:MX_TIM4_Init	5
+../Core/Src/main.c:764:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:798:13:MX_GPIO_Init	1
+../Core/Src/main.c:870:6:Error_Handler	1
